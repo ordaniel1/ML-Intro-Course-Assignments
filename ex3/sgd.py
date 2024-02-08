@@ -20,7 +20,6 @@ GOAL: In this exercise we will optimize the Hinge loss (with L2 regularization) 
 """
 
 
-#l(w,x,y)=C(max{0,1-y<w,x>})+0.5||w||^2
 
 def helper():
     """The function loads the training, validation and test sets for the digits
